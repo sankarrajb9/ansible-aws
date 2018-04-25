@@ -1,5 +1,5 @@
 ec2_keypair: "rsipocnew"
-ec2_security_group: "sg-19276050"
+ec2_security_group: "sg-0f5e059f0ff59b155"
 ec2_instance_type: "t2.micro"
 ec2_image: "ami-43a15f3e"
 ec2_subnet_ids: ['subnet-690a0956','subnet-2569c16f']
