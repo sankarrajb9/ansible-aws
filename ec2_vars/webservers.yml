@@ -1,0 +1,10 @@
+ec2_keypair: "rsipocnew"
+ec2_security_group: "sg-19276050"
+ec2_instance_type: "t2.micro"
+ec2_image: "ami-43a15f3e"
+ec2_subnet_ids: ['subnet-690a0956','subnet-2569c16f']
+ec2_region: "us-east-1"
+ec2_tag_Name: "Webserver"
+ec2_tag_Type: "webserver"
+ec2_tag_Environment: "production"
+ec2_volume_size: 8
